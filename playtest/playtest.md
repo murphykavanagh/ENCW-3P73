@@ -5,4 +5,4 @@
 
 Play the game prototype [here](https://murphykavanagh.github.io/IASC-1P04/prototype/TwineGamePrototype.html).
 
-## Complere the playtest survey
+## Complete the playtest survey
