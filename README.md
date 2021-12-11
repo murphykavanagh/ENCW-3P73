@@ -11,7 +11,7 @@ Play Roly-Poly's Parking Lot [here](https://murphykavanagh.github.io/IASC-1P04/f
 
 ## Playtest
 
-Playtest my game [here](playtest/playtest)
+Playtest my game [here](playtest/playtest.md)
 
 ## Prototype
 
