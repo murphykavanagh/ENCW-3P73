@@ -9,6 +9,10 @@ Roly-Poly's Parking Lot is a short choose your own adventure game where players 
 
 Play Roly-Poly's Parking Lot [here](https://murphykavanagh.github.io/IASC-1P04/final_build/Roly-Poly'sParkingLotFinal.html)
 
+## Playtest
+
+Playtest my game [here](playtest/playtest)
+
 ## Prototype
 
 Play my prototype [here](prototype/TwineGamePrototype.html)
